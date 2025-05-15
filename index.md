@@ -4,9 +4,9 @@ title: Colour basics
 
 ## What is colour?
 
-Colour is not a physical property of light, it is the sensation experienced, and percieved in the brain. The electromatnetic spectrum has a range of frequencies that our eyes are sensitive to. Other animals have eyes that are sensitive to different frequencies of light, but generally these are close to the same range as ours.  Goldfish have the widest range of colour vision.
+Colour is not a physical property of light, it is the sensation experienced, and percieved in the brain. The electromatnetic spectrum has a range of frequencies that our eyes are sensitive to. Other animals have eyes that are sensitive to different frequencies of light, but generally these are close to the same range as ours.  Goldfish have the widest range of colour vision, they can see light in frequencies quite far into both the infra red, and ultra violet regions of the spectrum.
 
-The electromagnetic and incorporates low frequency radio waves, to very high frequency gamma radiation.Imagine electromagnetic radiation as a electrical and magnetic energy wave travelling through space.
+The electromagnetic spectrum incorporates low frequency radio waves, to very high frequency gamma radiation. Imagine electromagnetic radiation as energy waves travelling through space.
 
 ## The journey of a bit of light
 
