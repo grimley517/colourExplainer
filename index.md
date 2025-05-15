@@ -1,3 +1,5 @@
+title: Colour basics
+---
 # Colour basics
 
 ## What is colour?
@@ -37,6 +39,8 @@ The subtractive primary colours are:
 - Yellow
 - There is an additional primary usually used, for convienice as balance is difficult - Black
 
+In art when they talking about mixing colours, they are talking about **Subtractive Mixing**. They are mixing things that affect the surface, that light reflects off, not the light itself.
+
 ### Eye
 
 When light reaches us it passes into our eyes, and is focussed on the back of the eye.  The surface of the back of the eye is called the retina. The retina has special cells which are sensitive to light. There are two types of cell in the retina, rods and cones.  Rods are sensitive to low light conditions, and are generally overstimulated during the day. Cones come in three varieties.
@@ -49,15 +53,17 @@ When the cones are sensitised, they send signals to the brain, which interprets 
 
 ## Light mixing
 
-Interesting fact: Colour TV was invented before we understood cones. The colour phosphors as were used in the original colour tvs were very close in frequency to the colours that our eyes are sensitive to
+Interesting fact: Colour TV was invented before we understood cones. The colour phosphors as were used in the original colour tvs were very close in frequency to the colours that our eyes are sensitive to. 
 
-When we mix light we are combining colours *additively*
+When we mix light we are combining colours **additively**
 
 The additive primary colours are:
 
 - Red
 - Green
 - Blue
+
+In science when we talk about mixing colours, we are talking about **Additive Mixing**. We are mixing light of different colours.
 
 ## Experimental notes
 
@@ -67,10 +73,17 @@ Get students to look at a colour tv screen using a magnifier. Observe the pixels
 
 This is often better than trying to combine lights on a screen. The colours on a screen are rarely convincing.
 
-### CSS 
+### Web design colours
 
 We can mix colours quite well using a screen using web technologies.  
 See attached colours.html file - should just be able to open it in a browser.
 
-Hex codes are usually 6 digits long, but can be 3 digits for ease of explanation. the numbering scheme is hexadecimal - ie 0123456789ABCDEF are the digits
+Hex codes are usually 6 digits long, but can be 3 digits for ease of explanation. the numbering scheme is hexadecimal - ie 0123456789ABCDEF are the digits.
 
+[Some examples can be found on this page](colours.html) If you inspect the elements you can change the colours. This page uses 3 digit hex codes.
+
+- The first digit determines the strength of the red parts of the screens pixel
+- The second digit determines the strength of the green parts of the screens pixel
+- The third digit determines the strength of the blue parts of the screeens pixel
+
+<video width="640" height="320" controls> <source src="colour-on-web-demo480.mov"></video>
