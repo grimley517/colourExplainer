@@ -86,4 +86,4 @@ Hex codes are usually 6 digits long, but can be 3 digits for ease of explanation
 - The second digit determines the strength of the green parts of the screens pixel
 - The third digit determines the strength of the blue parts of the screeens pixel
 
-<video width="640" height="320" controls> <source src="colour-on-web-demo480.mov"></video>
+<video width="720" height="480" controls> <source src="colour-on-web-demo480.mov"></video>
