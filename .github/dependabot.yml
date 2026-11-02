@@ -1,9 +1,11 @@
 version: 2
 updates:
-  - package-ecosystem: "github-actions"
-    directory: "/"
+  - package-ecosystem: github-actions
+    directory: /
     schedule:
-      interval: "weekly"
-      day: "thursday"
+      interval: weekly
+      day: thursday
     assignees:
-      - "grimley517"
+      - grimley517
+    cooldown:
+      default-days: 7
